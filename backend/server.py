@@ -22,7 +22,7 @@ import base64
 # Solana imports
 from solana.rpc.async_api import AsyncClient
 from solana.rpc.commitment import Confirmed, Finalized
-from solana.publickey import PublicKey
+from solders.pubkey import Pubkey as PublicKey
 from solders.pubkey import Pubkey
 from solders.keypair import Keypair
 from solders.transaction import VersionedTransaction
