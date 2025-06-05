@@ -17,7 +17,7 @@
     "@solana/wallet-adapter-base": "^0.9.23",
     "recharts": "^2.14.1",
     "lucide-react": "^0.470.0",
-    "react-toastify": "^11.1.1"
+    "react-toastify": "^10.0.5"
   },
   "scripts": {
     "start": "react-scripts start",
