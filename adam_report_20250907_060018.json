@@ -1,0 +1,52 @@
+{
+  "regal_address": "BTCYAe4jjV",
+  "harmonic_frequency": 888.0,
+  "performance_data": [
+    {
+      "regal_address": "BTCYAe4jjV",
+      "harmonic_frequency": 888.0,
+      "current_signal": {
+        "timestamp": "2025-09-07T05:59:58.184095",
+        "harmonic_position": 0.043,
+        "signal_strength": 1.0,
+        "trading_action": "STRONG_BUY"
+      },
+      "resonance_quality": 1.0,
+      "performance_multiplier": 3.0,
+      "recommendation": "STRONG_BUY"
+    },
+    {
+      "regal_address": "BTCYAe4jjV",
+      "harmonic_frequency": 888.0,
+      "current_signal": {
+        "timestamp": "2025-09-07T06:00:08.184564",
+        "harmonic_position": 0.054,
+        "signal_strength": 1.0,
+        "trading_action": "STRONG_BUY"
+      },
+      "resonance_quality": 1.0,
+      "performance_multiplier": 3.0,
+      "recommendation": "STRONG_BUY"
+    },
+    {
+      "regal_address": "BTCYAe4jjV",
+      "harmonic_frequency": 888.0,
+      "current_signal": {
+        "timestamp": "2025-09-07T06:00:18.184992",
+        "harmonic_position": 0.054,
+        "signal_strength": 1.0,
+        "trading_action": "STRONG_BUY"
+      },
+      "resonance_quality": 1.0,
+      "performance_multiplier": 3.0,
+      "recommendation": "STRONG_BUY"
+    }
+  ],
+  "summary": {
+    "avg_signal_strength": 1.0,
+    "action_counts": {
+      "STRONG_BUY": 3
+    },
+    "total_cycles": 3
+  }
+}
